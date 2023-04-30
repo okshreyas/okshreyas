@@ -3,11 +3,11 @@ Hi 👋 My name is Shreyas Joshi
 
 Hi there! I'm a Java developer with experience in Python, SQL, and Linux. I love learning new technologies and experimenting with different tools to solve problems. Check out my GitHub profile to see some of my projects and collaborations. Let's connect and explore new opportunities together!
 
-* 🌍  I'm based in INDIA
+* 🌍  Based in INDIA
 * ✉️  You can contact me at [themanagertimes@gmail.com](mailto:themanagertimes@gmail.com)
-* 🧠  I'm learning JAVA Spring and Docker
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I like Blogging
+* 🧠  Learning JAVA Spring and Docker
+* 🤝  Open to collaborating on Interesting projects
+* ⚡  Like Blogging, Coding and Collaborating..
 <p align="center">
 <a href="https://www.twitter.com/okshreyas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/okshreyas?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
