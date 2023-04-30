@@ -35,13 +35,17 @@ src="https://img.shields.io/twitter/follow/okshreyas?logo=twitter&style=for-the-
 <p align="center">
 <b>My GitHub Stats</b>
 
-<div style="display:flex; align-items:center;">
-  <a href="http://www.github.com/okshreyas" style="flex:1;margin-right:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=okshreyas&show_icons=true&hide=stars,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="okshreyas's GitHub stats" style="height: 200px; object-fit: contain;" />
-  </a>
-  <a href="http://www.github.com/okshreyas" style="flex:1;margin-left:10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=okshreyas&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="height: 200px; object-fit: contain;" />
-  </a>
+<div style="display:flex;">
+  <div style="flex:1;margin-right:10px;">
+    <a href="http://www.github.com/okshreyas">
+      <img style="height:100%" src="https://github-readme-stats.vercel.app/api?username=okshreyas&show_icons=true&hide=stars,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="okshreyas's GitHub stats" />
+    </a>
+  </div>
+  <div style="flex:1;margin-left:10px;">
+    <a href="http://www.github.com/okshreyas">
+      <img style="height:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=okshreyas&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+  </div>
 </div>
 
 
