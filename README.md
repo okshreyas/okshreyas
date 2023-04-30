@@ -13,9 +13,6 @@ Hi there! I'm a Java developer with experience in Python, SQL, and Linux. I love
 src="https://img.shields.io/twitter/follow/okshreyas?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
 
-<img src="https://raw.githubusercontent.com/okshreyas/okshreyas/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### Skills
 
