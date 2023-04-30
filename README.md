@@ -47,4 +47,4 @@ src="https://img.shields.io/twitter/follow/okshreyas?logo=twitter&style=for-the-
 <a href="http://www.github.com/okshreyas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=okshreyas&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-<img src="https://raw.githubusercontent.com/okshreyas/okshreyas/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/okshreyas/okshreyas/blob/output/github-contribution-grid-snake.gif)
