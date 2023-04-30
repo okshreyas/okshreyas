@@ -14,6 +14,8 @@ src="https://img.shields.io/twitter/follow/okshreyas?logo=twitter&style=for-the-
 /></a>
 ###
 
+![snake gif](https://github.com/okshreyas/okshreyas/blob/output/github-contribution-grid-snake.gif)
+
 <img src="https://raw.githubusercontent.com/okshreyas/okshreyas/output/snake.svg" alt="Snake animation" />
 
 ###
