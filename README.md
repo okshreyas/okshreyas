@@ -12,9 +12,6 @@ Hi there! I'm a Java developer with experience in Python, SQL, and Linux. I love
 <a href="https://www.twitter.com/okshreyas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/okshreyas?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
-###
-
-![snake gif](https://github.com/okshreyas/okshreyas/blob/output/github-contribution-grid-snake.gif)
 
 <img src="https://raw.githubusercontent.com/okshreyas/okshreyas/output/snake.svg" alt="Snake animation" />
 
@@ -48,3 +45,6 @@ src="https://img.shields.io/twitter/follow/okshreyas?logo=twitter&style=for-the-
 <a href="http://www.github.com/okshreyas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okshreyas&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/okshreyas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=okshreyas&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+<img src="https://raw.githubusercontent.com/okshreyas/okshreyas/output/snake.svg" alt="Snake animation" />
