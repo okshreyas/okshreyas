@@ -1,7 +1,7 @@
 Hi 👋 My name is Shreyas Joshi
 ==============================
 
-Hi there! I'm a Java developer with experience in Python, SQL, and Linux. I love learning new technologies and experimenting with different tools to solve problems. Check out my GitHub profile to see some of my projects and collaborations. Let's connect and explore new opportunities together!
+Hi there! I'm a Java developer with experience in Spring Boot, SQL, and Linux. I love learning new technologies and experimenting with different tools to solve problems. Check out my GitHub profile to see some of my projects and collaborations. Let's connect and explore new opportunities together!
 
 * 🌍  Based in INDIA
 * ✉️  You can contact me at [themanagertimes@gmail.com](mailto:themanagertimes@gmail.com)
