@@ -38,9 +38,9 @@ I enjoy building reliable backend systems, clean APIs, and practical software th
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=okshreyas&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=okshreyas&show_icons=true&hide_border=true&theme=transparent" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okshreyas&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=okshreyas&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
 
 </div>
 
