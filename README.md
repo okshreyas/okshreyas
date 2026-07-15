@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7)](https://okshreyas.github.io/Port/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7)](https://okshreyas.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/okshreyas)
 [![Medium](https://img.shields.io/badge/Medium-1a1a1a?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@unixx)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:themanagertimes@gmail.com)
